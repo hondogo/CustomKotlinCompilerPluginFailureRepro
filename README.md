@@ -1,1 +1,1 @@
-# CustomKotlinCompilerPluginFailureRepro
+./gradlew build
